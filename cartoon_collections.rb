@@ -5,7 +5,7 @@ end
 end
 
 def summon_captain_planet(veggies)# code an argument here
-veggies.map! {|veggie| veggies.capitalize }
+veggies.map! do |i|
  veggies.each { |veggies| puts name + "!" }
 end
 
