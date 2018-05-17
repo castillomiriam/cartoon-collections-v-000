@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)# code an argument here
   array.each_with_index { |item, index|
-    hash[item] = index
+    puts "{index+1}.#{{element}}"
   # Your code here
 end
 
