@@ -1,4 +1,4 @@
-def roll_call_dwarves("Doc", "Dopey", "Bashful", "Grumpy")# code an argument here
+def roll_call_dwarves(array)# code an argument here
   (roll_call_dwarves).each_with_index { |item, index|
     hash[item] = index
   # Your code here
