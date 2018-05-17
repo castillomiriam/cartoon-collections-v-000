@@ -8,7 +8,7 @@ def summon_captain_planet(veggies)# code an argument here
 veggies.map! do |i|
  i.capitalize + "!"
 end
-elements
+veggies
 end
 
 def long_planeteer_calls# code an argument here
