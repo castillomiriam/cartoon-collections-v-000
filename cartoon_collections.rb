@@ -22,3 +22,5 @@ def find_the_cheese(foods)# code an argument here
   cheese_types.each do |cheese|
     if foods.include?(cheese)
       return cheese
+    else
+      return nil
