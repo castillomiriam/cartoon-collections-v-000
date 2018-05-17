@@ -17,7 +17,7 @@ calls_short.any? do |i|
 end
 end
 
-def find_the_cheese# code an argument here
+def find_the_cheese()# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
